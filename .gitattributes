@@ -1,0 +1,2 @@
+Fluxor/*.fpk filter=lfs diff=lfs merge=lfs -text
+PeerBanHelper/*.fpk filter=lfs diff=lfs merge=lfs -text
