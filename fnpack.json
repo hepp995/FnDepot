@@ -203,5 +203,19 @@
     "history": {
       "v1.24.1-1": "初始版本，看readme"
      }
+   },
+  "Golang": {
+    "display_name": "Golang",
+    "desc": "Go1.25.7",
+    "labels": "原生,编程,工具",
+    "version": "1.25.7",
+    "author": "golang",
+    "author_url": "https://go.dev",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "57",
+    "history": {
+      "v1.25.7": "此处仅提供x86版，arm前往网盘下载"
+     }
    }
 }
