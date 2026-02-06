@@ -150,16 +150,17 @@
    },
   "EasyTier": {
     "display_name": "EasyTier",
-    "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，适配x86、arm64。",
+    "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，适配x86、arm64，支持双模式启动。",
     "labels": "原生,网络,工具",
-    "version": "2.5.0-1",
+    "version": "2.5.0-2",
     "author": "EasyTier",
     "author_url": "https://easytier.cn/",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "24",
+    "size": "24.5",
     "history": {
-      "v2.5.0-1": "初始版本"
+      "v2.5.0-1": "初始版本",
+      "v2.5.0-2": "支持配置文件、web控制台双模式启动。更新后会丢失配置，注意备份"  
      }
    },
   "qBittorrent-Enhanced": {
